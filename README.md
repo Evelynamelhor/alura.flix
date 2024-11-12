@@ -1,2 +1,0 @@
-# alura.flix
-styles.css
